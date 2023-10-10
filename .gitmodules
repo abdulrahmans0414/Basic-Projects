@@ -1,3 +1,6 @@
 [submodule "Birthday-Card"]
 	path = Birthday-Card
 	url = https://github.com/abdulrahmans0414/Birthday-Card.git
+[submodule "Business-Card"]
+	path = Business-Card
+	url = https://github.com/abdulrahmans0414/Business-Card.git
