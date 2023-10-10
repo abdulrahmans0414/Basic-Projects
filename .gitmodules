@@ -7,3 +7,6 @@
 [submodule "Google-Clone"]
 	path = Google-Clone
 	url = https://github.com/abdulrahmans0414/Google-Clone.git
+[submodule "CV"]
+	path = CV
+	url = https://github.com/abdulrahmans0414/CV.git
