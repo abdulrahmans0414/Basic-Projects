@@ -4,3 +4,6 @@
 [submodule "Business-Card"]
 	path = Business-Card
 	url = https://github.com/abdulrahmans0414/Business-Card.git
+[submodule "Google-Clone"]
+	path = Google-Clone
+	url = https://github.com/abdulrahmans0414/Google-Clone.git
