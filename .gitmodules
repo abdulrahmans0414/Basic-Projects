@@ -10,3 +10,6 @@
 [submodule "CV"]
 	path = CV
 	url = https://github.com/abdulrahmans0414/CV.git
+[submodule "Hometown"]
+	path = Hometown
+	url = https://github.com/abdulrahmans0414/Hometown.git
