@@ -18,6 +18,7 @@ The Business Card project showcases a professional business card layout for indi
 - **Commit:** [022e9fd](https://github.com/username/Business-Card/commit/022e9fd)
 - **Demo:** [Business Card Demo](https://frolicking-cheesecake-881130.netlify.app)
 
+
 ## 3. CV
 
 The CV project presents a comprehensive curriculum vitae detailing personal information, educational background, skills, and projects. Ideal for professional portfolios.
