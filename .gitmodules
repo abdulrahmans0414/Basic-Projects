@@ -19,3 +19,6 @@
 [submodule "diceeChallenge"]
 	path = diceeChallenge
 	url = https://github.com/abdulrahmans0414/diceeChallenge.git
+[submodule "drumKit"]
+	path = drumKit
+	url = https://github.com/abdulrahmans0414/drumKit.git
