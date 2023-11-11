@@ -16,3 +16,6 @@
 [submodule "Change-bg-Color"]
 	path = Change-bg-Color
 	url = https://github.com/abdulrahmans0414/Change-bg-Color.git
+[submodule "diceeChallenge"]
+	path = diceeChallenge
+	url = https://github.com/abdulrahmans0414/diceeChallenge.git
